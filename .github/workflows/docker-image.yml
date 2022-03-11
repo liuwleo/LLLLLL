@@ -11,5 +11,5 @@ jobs:
         with:
           # 下方的name格式为：Docker Hub ID/自定义镜像名称
           name: liuwleo/milk
-          username: '${{ secrets.liuwleo }}'
+          username: '${{ secrets.liuwleo@ }}'
           password: '${{ secrets.uKj7x_TLX8R4KMw }}'
